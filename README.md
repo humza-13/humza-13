@@ -1,6 +1,8 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
 [![LinkedIn](icons/linkedin-96.png)]("https://www.linkedin.com/in/muhammad-humza-butt")
+[![Mail](icons/mail-96.png)]("mailto:leonhumza@gmail.com")
+
 <a href="https://www.linkedin.com/in/muhammad-humza-butt">
   <img src="icons/mail-96.png" alt="Email" width="96" height="96">
 </a>

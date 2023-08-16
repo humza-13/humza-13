@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
-[<i class="fa-brands fa-linkedin fa-bounce" style="color: #0077b5;"></i>](https://www.linkedin.com/in/yourusername/)
+[<i class="fa-brands fa-linkedin" style="color: #0077b5;"></i>](https://www.linkedin.com/in/yourusername/)
 
 I'm a Game Developer who is passionate about [your interests or specialties]. I love to [a bit about your coding style or work philosophy].
 

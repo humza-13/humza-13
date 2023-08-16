@@ -1,8 +1,6 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
-<a href="https://www.linkedin.com/in/muhammad-humza-butt">
-  <img src="icons/linkedin-96.png" alt="LinkedIn" width="96" height="92">
-</a>
+[![LinkedIn](icons/linkedin-96.png)]("https://www.linkedin.com/in/muhammad-humza-butt")
 <a href="https://www.linkedin.com/in/muhammad-humza-butt">
   <img src="icons/mail-96.png" alt="Email" width="96" height="96">
 </a>

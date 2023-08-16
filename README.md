@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
 [![LinkedIn](icons/linkedin-96.png)]("https://www.linkedin.com/in/muhammad-humza-butt")
-[![Mail](icons/mail-96.png)]("mailto:leonhumza@gmail.com")
+[![Mail](https://github.com/humza-13/humza-13/blob/development/icons/mail-96.png)]("mailto:leonhumza@gmail.com")
 
 
 I'm a Game Developer who is passionate about [your interests or specialties]. I love to [a bit about your coding style or work philosophy].

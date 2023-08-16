@@ -4,7 +4,7 @@
   <img src="icons/linkedin-96.png" alt="LinkedIn" width="93" height="93">
 </a>
 <a href="https://www.linkedin.com/in/muhammad-humza-butt">
-  <img src="icons/mail-96.png" alt="Email" width="96" height="96">
+  <img src="icons/mail-96.png" alt="Email" width="100" height="100">
 </a>
 
 

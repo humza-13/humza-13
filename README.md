@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
 <a href="https://twitter.com/yourtwitterhandle">
-  <img src="icons/linkedin-256.png" alt="LinkedIn" width="30" height="30">
+  <img src="icons/linkedin-256.png" alt="LinkedIn" width="256" height="256">
 </a>
 
 I'm a Game Developer who is passionate about [your interests or specialties]. I love to [a bit about your coding style or work philosophy].

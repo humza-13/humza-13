@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Humza Butt! 👋
 
 <a href="https://www.linkedin.com/in/muhammad-humza-butt">
-  <img src="icons/linkedin-96.png" alt="LinkedIn" width="92" height="92">
+  <img src="icons/linkedin-96.png" alt="LinkedIn" width="93" height="93">
 </a>
 <a href="https://www.linkedin.com/in/muhammad-humza-butt">
   <img src="icons/mail-96.png" alt="Email" width="96" height="96">

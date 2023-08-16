@@ -3,10 +3,6 @@
 [![LinkedIn](icons/linkedin-96.png)]("https://www.linkedin.com/in/muhammad-humza-butt")
 [![Mail](icons/mail-96.png)]("mailto:leonhumza@gmail.com")
 
-<a href="https://www.linkedin.com/in/muhammad-humza-butt">
-  <img src="icons/mail-96.png" alt="Email" width="96" height="96">
-</a>
-
 
 I'm a Game Developer who is passionate about [your interests or specialties]. I love to [a bit about your coding style or work philosophy].
 

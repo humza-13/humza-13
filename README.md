@@ -18,9 +18,22 @@ The backend is my enchanting domain. By integrating Ad networks and SDKs such as
 
 Unity's codebase is my architectural playground, where elegance meets functionality. Guiding junior developers, I empower them to wield the language of pixels with finesse. In teams, I forge connections that transcend mere collaboration, sparking innovation, and camaraderie that fuels the flame of technical excellence.
 
+## 🛠️ Technical Expertise
+
+As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse and innovative technologies. Here's a glimpse of my domain:
+
+- **Languages**: C#
+- **Game Engines**: Unity
+- **Networking**: Mirror, Photon Fusion
+- **Tools**: Visual Studio, Git, Google BigQuery, Firebase
+- **Platforms**: Android, iOS, WebGL, Desktop
+- **Backend Integration**: PlayFab, Firebase (Remote Config, Crashlytics, Analytics), Applovin (Mediation), Facebook SDK, AppsFlyer, Unity Gamming Services
+- **Project Management**: Workflow Automation, Version Control, Jira
+
+
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&theme=radical&count_private=true)
 
 ## 🛠️ Connect, Collaborate, Code 🌐
 

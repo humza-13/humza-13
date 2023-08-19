@@ -25,7 +25,6 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 - **Languages**: C#
 - **Game Engines**: Unity
 - **Networking**: Mirror, Photon Fusion
-- **Tools**: Visual Studio, Git, Google BigQuery, Firebase
 - **Platforms**: Android, iOS, WebGL, Desktop
 - **Backend Integration**: PlayFab, Firebase (Remote Config, Crashlytics, Analytics), Applovin (Mediation), Facebook SDK, AppsFlyer, Unity Gamming Services
 - **Project Management**: Workflow Automation, Version Control, Jira
@@ -33,7 +32,7 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 
 ## 📊 GitHub Stats
 
-![humza-13's Stats](https://github-readme-stats.vercel.app/api?username=humza-13&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![humza-13's Stats](https://github-readme-stats.vercel.app/api?username=humza-13&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)
 ![humza-13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=humza-13&theme=nightowl&hide_border=true)
 
 ## 🛠️ Connect, Collaborate, Code 🌐

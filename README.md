@@ -33,7 +33,7 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&theme=radical&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&theme=radical&include_all_commits=true&&count_private=true)
 
 ## 🛠️ Connect, Collaborate, Code 🌐
 

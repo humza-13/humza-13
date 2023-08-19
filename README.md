@@ -39,6 +39,6 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 
 Embark on an expedition through my repositories, each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on:
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://www.linkedin.com/in/muhammad-humza-butt)
-[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:your.email@example.com)
+[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:leonhumza@gmail.com)
 
 _"In the realm of code, every pixel is a theorem, and every line a theorem proven."_ 🎮🖌️

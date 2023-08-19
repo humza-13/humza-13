@@ -1,28 +1,28 @@
 [![LinkedIn](icons/linkedin-96.png)]("https://www.linkedin.com/in/muhammad-humza-butt")
 [![Mail](icons/mail-96.png)]("mailto:leonhumza@gmail.com")
 
-# 🎮 Welcome to the Code-Forged Gaming Nexus! 🌌
+# 🎮 Welcome to the Unity-Forged Realms of Gaming Excellence! 🌌
 
-Greetings, fellow architects of virtual realms! I am [Your Name], your guide through the labyrinth of game development, where code converges with creativity, and pixels pulse with life. As a Senior Game Developer, Lead Game Engineer, and Freelance Game Developer, I've embarked on an odyssey where algorithms dictate the rules, and innovation reigns supreme.
+Ahoy, fellow architects of virtual adventures! I am Muhammad Humza Butt, your guide through the intricate matrix of game development, where Unity is my palette and code is the brushstroke that breathes life into pixels. As a Senior Game Engineer, I am your conduit to an exhilarating world where every line of code is a step toward crafting the extraordinary.
 
-## 🚀 Scripting the Saga of Virtual Realities 🌟
+## 🚀 Crafting Immersive Universes, One Pixel at a Time 🌟
 
-Within the realm of Unity, I don the mantle of a Lead Game Engineer, orchestrating symphonies of code that breathe life into intricate 3D/2D games. My domain is not just gameplay mechanics; it's a symposium of algorithms and data structures, where the pulse of each pixel is meticulously engineered to resonate with the player's soul.
+Dive deep into Unity's embrace as I unfurl the tapestry of virtual worlds. I am the Senior Game Engineer, channeling complexity into masterpieces that players can lose themselves in. My expertise extends beyond mere gameplay mechanics; I orchestrate multiplayer symphonies, implement dynamic UI elements, and engineer backend services that create experiences players cherish.
 
-## 🌐 Mastering the Bytecraft of Possibilities 🧙‍♂️
+## 🌐 Multiplayer Architect, Realm Unifier 🧙‍♂️
 
-Beyond the gaming horizon, Python is my trusted companion as I journey through data's labyrinth, unraveling its symphony with machine learning and AI. Each line of code crafts a solution that bridges the chasm between complexity and comprehension. With the alchemy of Python, I forge tools that empower us to shape our digital destiny.
+As a multiplayer virtuoso, I am the weaver of connected realms. Unity's networking intricacies are my playground, where I breathe life into collaborative gameplay experiences. From seamless communication protocols to synchronized actions, I engineer multiplayer mechanics that bind players in shared quests and collective triumphs.
 
-## 🎨 Debugging Realities, Crafting Axioms 🎲
+## 🎨 Backend Enchanter, Revenue Alchemist 🎲
 
-In Unity's crucible, bugs and optimizations are my playground. As a Senior Game Engineer, I wield C# with precision, crafting gameplay features that rewrite the rules. Multiplayer symphonies, fluid animations, and dynamic UI elements are my brushstrokes, each a testament to my technical finesse.
+The backend is my enchanting domain. By integrating Ad networks and SDKs such as Firebase, Applovin, Facebook, and PlayFab, I weave backend magic that not only boosts game revenue but also enhances player engagement. Data insights are my secret potion, crafted through tools like Google BigQuery, guiding strategic decisions that shape gameplay dynamics.
 
-## 🧠 Codebase Collaborator, Pixel Whisperer 🎭
+## 🧠 Code Architect, Mentor Maestro 🎭
 
-Mentoring is my virtue, transforming aspiring developers into pixel poets. I cultivate innovation, camaraderie, and a shared quest for technical excellence. Within teams, I forge alliances that transcend code to reshape the gaming sphere.
+Unity's codebase is my architectural playground, where elegance meets functionality. Guiding junior developers, I empower them to wield the language of pixels with finesse. In teams, I forge connections that transcend mere collaboration, sparking innovation, and camaraderie that fuels the flame of technical excellence.
 
 ## 🛠️ Connect, Collaborate, Code 🌐
 
-Venture into my repositories, where code is a manifesto, and each commit is a mark of progression. Let's forge a connection, collaborate on intricate challenges, and sculpt virtual epics together. Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile), explore my technical troves at [www.yourwebsite.com](https://www.yourwebsite.com), or engage in a byte-battle through email at your.email@example.com.
+Embark on an expedition through my repositories, each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-humza-butt), or challenge the constructs of code through email at leonhumza@gmail.com.
 
-_"In the realm of code, every pixel is a theorem, and every line a theorem proven."_ 🎮🔬
+_"In the realm of code, every pixel is a theorem, and every line a theorem proven."_ 🎮🖌️

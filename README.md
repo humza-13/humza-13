@@ -18,6 +18,10 @@ The backend is my enchanting domain. By integrating Ad networks and SDKs such as
 
 Unity's codebase is my architectural playground, where elegance meets functionality. Guiding junior developers, I empower them to wield the language of pixels with finesse. In teams, I forge connections that transcend mere collaboration, sparking innovation, and camaraderie that fuels the flame of technical excellence.
 
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&theme=radical)
+
 ## 🛠️ Connect, Collaborate, Code 🌐
 
 Embark on an expedition through my repositories, each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-humza-butt), or challenge the constructs of code through email at leonhumza@gmail.com.

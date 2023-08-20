@@ -42,6 +42,6 @@ Embark on an expedition through my repositories, each commit etching a chapter i
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://www.linkedin.com/in/muhammad-humza-butt)
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:leonhumza@gmail.com)
 
-   [<img src="https://github.com/humza-13/humza-13/blob/development/icons/fiverr-64.png" alt="Fiverr" width="64" height="64">](https://www.fiverr.com/humzabutt13?public_mode=true)
+[<img src="https://github.com/humza-13/humza-13/blob/development/icons/fiverr-96.png" alt="Fiverr" width="96" height="96">](https://www.fiverr.com/humzabutt13?public_mode=true)
 
 _"In the realm of code, every pixel is a theorem, and every line a theorem proven."_ 🎮🖌️

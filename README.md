@@ -32,18 +32,9 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <div style="flex: 1;">
-    ![humza-13's Stats](https://github-readme-stats.vercel.app/api?username=humza-13&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)
-  </div>
-  
-  <div style="flex: 1;">
-    ![humza-13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=humza-13&theme=nightowl&hide_border=true)
-  </div>
-  
-</div>
-
+![humza-13's Stats](https://github-readme-stats.vercel.app/api?username=humza-13&theme=nightowl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)
+![humza-13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=humza-13&theme=nightowl&hide_border=true)
+ 
 ## 🛠️ Connect, Collaborate, Code 🌐
 
 Embark on an expedition through my repositories, each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on:

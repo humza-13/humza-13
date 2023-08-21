@@ -26,7 +26,7 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
 - **Game Engines**: Unity
 - **Networking**: Mirror, Photon Fusion
 - **Platforms**: Android, iOS, WebGL, Desktop
-- **Backend Integration**: PlayFab, Firebase (Remote Config, Crashlytics, Analytics), Applovin (Mediation), Facebook SDK, AppsFlyer, Unity Gamming Services
+- **Backend Integration**: PlayFab, Firebase (Remote Config, Crashlytics, Analytics), Applovin (Mediation), Facebook SDK, AppsFlyer, Unity Gaming Services
 - **Project Management**: Workflow Automation, Version Control, Jira
 
 

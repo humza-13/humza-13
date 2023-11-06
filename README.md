@@ -4,7 +4,7 @@ Ahoy, fellow architects of virtual adventures! I am Muhammad Humza Butt, your gu
 
 ## 🚀 Crafting Immersive Universes, One Pixel at a Time 🌟
 
-Dive deep into Unity's embrace as I unfurl the tapestry of virtual worlds. I am the Senior Game Engineer, channeling complexity into masterpieces that players can lose themselves in. My expertise extends beyond mere gameplay mechanics; I orchestrate multiplayer symphonies, implement dynamic UI elements, and engineer backend services that create experiences players cherish.
+Dive deep into Unity's embrace as I unfurl the tapestry of virtual worlds. I am the Senior Game Engineer, channeling complexity into masterpieces that players can lose themselves in. My expertise extends beyond gameplay mechanics; I orchestrate multiplayer symphonies, implement dynamic UI elements, and engineer backend services that create experiences players cherish.
 
 ## 🌐 Multiplayer Architect, Realm Unifier 🧙‍♂️
 
@@ -16,11 +16,11 @@ The backend is my enchanting domain. By integrating Ad networks and SDKs such as
 
 ## 🧠 Code Architect, Mentor Maestro 🎭
 
-Unity's codebase is my architectural playground, where elegance meets functionality. Guiding junior developers, I empower them to wield the language of pixels with finesse. In teams, I forge connections that transcend mere collaboration, sparking innovation, and camaraderie that fuels the flame of technical excellence.
+Unity's codebase is my architectural playground, where elegance meets functionality. Guiding junior developers, I empower them to wield the language of pixels with finesse. In teams, I forge connections that transcend mere collaboration, sparking innovation and camaraderie that fuels the flame of technical excellence.
 
 ## 🛠️ Technical Expertise
 
-As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse and innovative technologies. Here's a glimpse of my domain:
+As a Senior Game Engineer, my technical toolkit combines coding finesse and innovative technologies. Here's a glimpse of my domain:
 
 - **Languages**: C#
 - **Game Engines**: Unity
@@ -37,11 +37,11 @@ As a Senior Game Engineer, my technical toolkit is a fusion of coding finesse an
  
 ## 🛠️ Connect, Collaborate, Code 🌐
 
-Embark on an expedition through my repositories, each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on:
+Embark on an expedition through my repositories; each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on:
 
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://www.linkedin.com/in/muhammad-humza-butt)
-[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:leonhumza@gmail.com)
+[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.humzabutt.com)
 
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/fiverr-128.png" alt="Fiverr" width="128" height="128">](https://www.fiverr.com/humzabutt13?public_mode=true)
 
-_"In the realm of code, every pixel is a theorem, and every line a theorem proven."_ 🎮🖌️
+_"In the realm of code, every pixel is a theorem, and every line a theorem is proven."_ 🎮🖌️

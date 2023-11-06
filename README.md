@@ -40,7 +40,7 @@ As a Senior Game Engineer, my technical toolkit combines coding finesse and inno
 Embark on an expedition through my repositories; each commit etching a chapter in my pursuit of gaming mastery. Reach out to me on:
 
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/linkedin-64.png" alt="LinkedIn" width="64" height="64">](https://www.linkedin.com/in/muhammad-humza-butt)
-[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.humzabutt.com)
+[<img src="https://github.com/humza-13/humza-13/blob/development/icons/mail-64.png" alt="Email" width="64" height="64">](mailto:m.humzabutt@outlook.com)
 
 [<img src="https://github.com/humza-13/humza-13/blob/development/icons/fiverr-128.png" alt="Fiverr" width="128" height="128">](https://www.fiverr.com/humzabutt13?public_mode=true)
 

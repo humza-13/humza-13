@@ -1,6 +1,8 @@
-# 🎮 Mastering the Art of Game Development🌌
+## 🚀 Hi, I'm Muhammad Humza Butt!
 
-Welcome! I'm Muhammad Humza Butt, a Senior Game Developer with a passion for transforming complex ideas into immersive, high-performance games. With over 3 years of experience in the industry, I specialize in creating seamless multiplayer experiences, optimizing performance, and integrating powerful backend systems to deliver games that captivate and engage players across various platforms, including mobile, desktop, and WebGL.
+A passionate Senior Game Developer specializing in crafting immersive, high-performance games.
+
+[![Muhammad Humza Butt's GitHub stats](https://github-readme-stats.vercel.app/api?username=humza-13&show_icons=true&rank_icon=github)](https://github.com/humza-13)
 
 ## 🚀 Crafting Immersive, High-Performance Games 🌟
 

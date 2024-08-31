@@ -5,7 +5,7 @@
 
 ## 🌟 GitHub Stats
 [![Muhammad Humza Butt's GitHub stats](https://github-readme-stats-lyart-eta-37.vercel.app/api?username=humza-13&show_icons=true&rank_icon=github&include_all_commits=true&title_color=fff&text_color=fff&icon_color=00bfff&bg_color=30,e96443,904e95&hide=issues)](https://github.com/humza-13)
-[![Top Langs](https://github-readme-stats-lyart-eta-37.vercel.app/api/top-langs/?username=humza-13&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&card_width=490)](https://github.com/humza-13)
+[![Top Langs](https://github-readme-stats-lyart-eta-37.vercel.app/api/top-langs/?username=humza-13&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95&card_width=470)](https://github.com/humza-13)
 
 ## 🛠️ Skills
 

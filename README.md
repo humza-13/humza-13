@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">🚀<span style="color:blue">Hi, I'm Muhammad Humza Butt</span></h2>
-  <p align="center">A passionate Senior Game Developer specializing in crafting immersive, high-performance games.</p>
+  <p align="center"><span style="color:blue">A passionate Senior Game Developer specializing in crafting immersive, high-performance games.</span></p>
 </p>
 
 [![Muhammad Humza Butt's GitHub stats](https://github-readme-stats-lyart-eta-37.vercel.app/api?username=humza-13&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9400d3&text_color=f5f5f5&icon_color=39ff14&bg_color=001f3f)](https://github.com/humza-13)

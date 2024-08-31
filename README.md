@@ -1,8 +1,8 @@
-<h2 style="color: #9400d3;">🚀 Hi, I'm Muhammad Humza Butt!</h2>
+<h2 style="color: #9400d3;">🧑‍🏫 Hi, I'm Muhammad Humza Butt!</h2>
 
 <p style="color: #f5f5f5;">A passionate Senior Game Developer specializing in crafting immersive, high-performance games.</p>
 
-[![Muhammad Humza Butt's GitHub stats](https://github-readme-stats-lyart-eta-37.vercel.app/api?username=humza-13&theme=radical&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9400d3&text_color=f5f5f5&icon_color=39ff14&bg_color=001f3f)](https://github.com/humza-13)
+[![Muhammad Humza Butt's GitHub stats](https://github-readme-stats-lyart-eta-37.vercel.app/api?username=humza-13&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9400d3&text_color=f5f5f5&icon_color=39ff14&bg_color=001f3f)](https://github.com/humza-13)
 ## 🚀 Crafting Immersive, High-Performance Games 🌟
 
 In the fast-paced world of game development, every detail matters. My expertise lies in engineering game systems that are not only visually compelling but also technically sound. I focus on building gameplay mechanics that are intuitive and responsive, ensuring that every interaction feels smooth and satisfying. Whether it’s developing multiplayer frameworks or optimizing performance for diverse hardware configurations, my goal is to push the boundaries of what’s possible in gaming.

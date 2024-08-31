@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">🚀 <span style="color: #0088ff;">Hi, I'm Muhammad Humza Butt!</h2>
+  <h2 align="center">🚀 <span style="color: #0088ff;">Hi, I'm Muhammad Humza Butt!</span></h2>
   <p align="center">A passionate Senior Game Developer specializing in crafting immersive, high-performance games.</p>
 </p>
 

@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">🙋 Hi, I'm Muhammad Humza Butt!</h2>
-  <p align="center">A Senior Game Developer with 3+ years of expertise in multiplayer systems, gameplay mechanics, and performance optimization. Proven track record of leading teams and delivering high-quality games on time. Dedicated to continuous learning and pushing the boundaries of game development.</p>
+  <p align="center">A Senior Game Developer with 5+ years of expertise in multiplayer systems, gameplay mechanics, and performance optimization. Proven track record of leading teams and delivering high-quality games on time. Dedicated to continuous learning and pushing the boundaries of game development.</p>
 </p>
 
 ## 🌟 GitHub Stats
